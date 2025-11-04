@@ -227,3 +227,29 @@ h1.title{
     left: 1140px;
     font-size: 1.2rem;     
 }
+
+
+.table{
+      text-align: center;
+    position: absolute;
+    top: 800px;
+    left: 550px;
+    font-size: 1.5rem; 
+    width: 150000000000000000px;
+}
+
+th{
+    background-color: rgb(23, 157, 230);
+}
+
+.td{
+    background-color: whitesmoke;
+}
+
+.white{
+    color: white;
+}
+
+.table-1{
+    border: grey solid;
+}
