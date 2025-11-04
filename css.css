@@ -1,0 +1,229 @@
+*{
+    margin: 0;
+    padding: 0;
+    block-size: border-box;
+}
+
+body{
+    font-family: sans-serif;
+}
+
+.text{  
+    padding: 20px;
+    max-width: 1440px;
+}
+
+h1.title{
+    font-size: 2.5rem;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.shior{
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.calc{  
+    margin: 50px auto;
+    width: 1000px;
+    height: 500px;
+    border: 2px solid gray;
+    background-color: whitesmoke;
+}
+
+.buton{
+    background-color: rgb(3, 186, 3);
+    width: 100px;
+    height: 30px;
+    margin: 460px 100px;
+}
+
+.dengi{
+    background-color: rgb(128, 218, 128);
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+    margin: 0;
+    position: absolute;
+    top: 662px;
+    left: 438px;
+}
+
+.dolar{
+    margin: 0;
+    position: absolute;
+}
+
+.yil-2{
+    margin: 0;
+    position: absolute;
+    top: 250px;
+    left: 475px;
+}
+
+.summa-1 {
+    margin: 0;
+    position: absolute;
+    top: 300px;
+    left: 475px; 
+}
+
+.protsent-3{
+    margin: 0;
+    position: absolute;
+    top: 350px;
+    left: 475px;    
+}
+
+.kun-4{
+    margin: 0;
+    position: absolute;
+    top: 400px;
+    left: 475px;    
+}
+
+.koshimcha-5{
+    margin: 0;
+    position: absolute;
+    top: 450px;
+    left: 475px;    
+}
+
+.boshi-6{
+    margin: 0;
+    position: absolute;
+    top: 500px;
+    left: 475px;    
+}
+
+.vaqt-7{
+    margin: 0;
+    position: absolute;
+    top: 550px;
+    left: 475px;    
+}
+
+.h-7{
+    margin: 0;
+    position: absolute;
+    top: 550px;
+    left: 300px;      
+}
+
+.h-6{
+    margin: 0;
+    position: absolute;
+    top: 500px;
+    left: 300px;      
+}
+
+.h-5{
+    margin: 0;
+    position: absolute;
+    top: 450px;
+    left: 300px;      
+}
+
+.h-4{
+    margin: 0;
+    position: absolute;
+    top: 400px;
+    left: 300px;      
+}
+
+.h-3{
+    margin: 0;
+    position: absolute;
+    top: 350px;
+    left: 300px;      
+}
+
+.h-2{
+    margin: o;
+    position: absolute;
+    top: 250px;
+    left: 300px;    
+}
+
+.h-1{
+    margin: 0;
+    position: absolute;
+    top: 300px;
+    left: 300px;         
+}
+
+.resul{
+    background-color:  rgb(3, 186, 3);
+    position: absolute;
+    top: 300px;
+    left: 780px;
+    width: 400px;      
+}
+
+.balance{
+    position: absolute;
+    top: 370px;
+    left: 800px;  
+    font-size: 1.2rem; 
+}
+
+.boshida{
+    position: absolute;
+    top: 440px;
+    left: 800px;  
+    font-size: 1.2rem; 
+}
+
+.koshimcha-tolov{
+    position: absolute;
+    top: 510px;
+    left: 800px;  
+    font-size: 1.2rem; 
+}
+
+.pul-topildi{
+    position: absolute;
+    top: 580px;
+    left: 800px;  
+    font-size: 1.2rem; 
+}
+
+.balance-0{
+    position: absolute;
+    top: 370px;
+    left: 1100px;  
+    font-size: 1.2rem; 
+}
+
+.boshida-0{
+    position: absolute;
+    top: 440px;
+    left: 1100px;  
+    font-size: 1.2rem; 
+}
+
+.koshimcha-tolov-0{
+    position: absolute;
+    top: 510px;
+    left: 1100px;  
+    font-size: 1.2rem; 
+}
+
+.pul-topildi-0{
+    position: absolute;
+    top: 580px;
+    left: 1100px;  
+    font-size: 1.2rem; 
+}
+
+:hover.buton{
+    background-color: rgb(1, 162, 1);
+}
+
+.emoji{
+    position: absolute;
+    top: 306px;
+    left: 1140px;
+    font-size: 1.2rem;     
+}
